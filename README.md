@@ -1,16 +1,15 @@
 # Shadvar Aspire Agent (Go)
+**Shadvar** is an open-source orchestration bridge for [.NET Aspire](https://github.com/dotnet/aspire), built in Go for maximum portability and runtime efficiency. It enables you to run, manage, and observe services defined in Aspire app models on any container runtime — locally or remotely.
+
+> [!TIP]
+> A lightweight, container-native orchestration agent for .NET Aspire — enabling remote, polyglot service orchestration via Docker and Kubernetes. Runs as a standalone container, interprets Aspire app models, and executes services across environments. Designed for performance, extensibility, and production-aligned developer workflows.
 
 <p align="center">
   <img src="./docs/logo-orig.png" width="250" alt="Shadvar Aspire Agent!">
 </p>
 
-> [!TIP]
-> A lightweight, container-native orchestration agent for .NET Aspire — enabling remote, polyglot service orchestration via Docker and Kubernetes. Runs as a standalone container, interprets Aspire app models, and executes services across environments. Designed for performance, extensibility, and production-aligned developer workflows.
-
 > [!NOTE]
 > “Shadvar” (شَدوَر) is a name derived from ancient Persian roots, possibly drawing from terms like xšaθra (meaning dominion or order in Avestan) and var (meaning holder or bearer). It symbolically refers to “the bearer of order” or “keeper of harmony”—which perfectly aligns with the role of an orchestrator in software systems.
-
-**Shadvar** is an open-source orchestration bridge for [.NET Aspire](https://github.com/dotnet/aspire), built in Go for maximum portability and runtime efficiency. It enables you to run, manage, and observe services defined in Aspire app models on any container runtime — locally or remotely.
 
 ✅ Supports Docker  
 🔜 Kubernetes-native (via CRD or controller)  
