@@ -22,13 +22,13 @@
 ## 🚀 Getting Started
 
 ### Prerequisites
-- Go 1.21+
+- Go 1.22+
 - Docker (installed and running)
 
 ### Clone and Run
 ```bash
-git clone https://github.com/yourusername/aspire-agent-go.git
-cd aspire-agent-go
+git clone https://github.com/ali63yavari/shadvar.agent.git
+cd shadvar.agent
 go run ./cmd/agent
 ```
 
@@ -46,7 +46,7 @@ curl -X POST http://localhost:8080/run \
 
 ## 📁 Project Structure
 ```
-aspire-agent/
+shadvar.agent/
 ├── cmd/agent/           # Main entrypoint
 │   └── main.go
 ├── internal/
@@ -94,4 +94,4 @@ Built by [Ali Yavari](https://github.com/ali63yavari) — focused on developer-f
 ---
 
 ## 💬 Feedback
-Open an [issue](https://github.com/yourusername/aspire-agent-go/issues) or start a discussion. We'd love to hear your ideas!
+Open an [issue](https://github.com/ali63yavari/shadvar.agent/issues) or start a discussion. We'd love to hear your ideas!
