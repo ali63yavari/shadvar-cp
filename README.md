@@ -85,7 +85,7 @@ MIT — use, modify, and share freely.
 ---
 
 ## 👨‍💻 Maintainer
-Built by [YourName](https://github.com/yourusername) — focused on developer-friendly orchestration for Aspire and beyond.
+Built by [Ali Yavari](https://github.com/ali63yavari) — focused on developer-friendly orchestration for Aspire and beyond.
 
 ---
 
