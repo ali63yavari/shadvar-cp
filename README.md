@@ -1,16 +1,8 @@
 # Shadvar Aspire Agent (Go)
 
-<style>
-  .center-image {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-  }
-</style>
+<img src="./docs/logo-orig.png" width="250" alt="Shadvar Aspire Agent!" style="display: block;margin-left: auto;margin-right: auto;">
 
-<img src="./docs/logo-orig.png" width="200" alt="Shadvar Aspire Agent!" class="center-image">
-
-> > [!TIP]
+> [!TIP]
 > A lightweight, container-native orchestration agent for .NET Aspire — enabling remote, polyglot service orchestration via Docker and Kubernetes. Runs as a standalone container, interprets Aspire app models, and executes services across environments. Designed for performance, extensibility, and production-aligned developer workflows.
 
 > [!NOTE]
